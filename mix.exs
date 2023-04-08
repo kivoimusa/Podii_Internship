@@ -1,4 +1,4 @@
-defmodule Blogger.MixProject do
+defmodule Blogger.Project do
   use Mix.Project
 
   def project do
