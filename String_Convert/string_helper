@@ -1,0 +1,6 @@
+defmodule StringHelper do
+  def uppercase_strings(strings) do
+    Enum.map(strings, &String.upcase/1)
+  end
+end
+
